@@ -1,0 +1,55 @@
+.brand {
+    color: #13547a;
+}
+
+.sign-container {
+    max-width: 470px;
+}
+
+.icon-height {
+    height: 24px;
+    width: 24px;
+}
+
+.right-box {
+    background: linear-gradient(#13547a, #80d0c7);
+}
+
+.inputbox {
+    border: 1px solid #cfcece;
+    outline: none;
+}
+
+.inputbox:focus {
+    border: 2px solid #80d0c7;
+}
+
+.input-label {
+    top: -12px;
+    left: 3%;
+}
+
+.sign-up {
+    background: #80d0c7;
+    color: #fff;
+}
+
+.sign-up:hover {
+    background: #fff;
+    color: #13547a;
+    border: 1px solid #13547a;
+}
+
+.signin-border {
+    width: 60px;
+    border: 2px solid #80d0c7;
+}
+
+a{
+    color: inherit;
+    text-decoration: inherit;
+}
+
+.logo{
+    height: 5vh;
+}
